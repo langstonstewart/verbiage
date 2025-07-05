@@ -5,8 +5,8 @@ A Python-based interactive CLI wordgame with a built-in dictionary definition fe
 
 ## Features:
 - Classic 5-letter Wordle inspired gameplay
-- Grab definitions for any word via [freeDictionaryAPI by meetDeveloper]("https://github.com/meetDeveloper/freeDictionaryAPI")
-- Terminal output with color highlights from Colorama and Termcolor
+- Grab definitions for any word via [freeDictionaryAPI](https://github.com/meetDeveloper/freeDictionaryAPI)
+- Terminal output with color highlights from [Colorama](https://pypi.org/project/colorama/) and [Termcolor](https://pypi.org/project/termcolor/)
 - Save game history and word definitions
 - 4 game difficulties for both casual and expert players
 
@@ -21,8 +21,10 @@ Once you enter a guess, the gameboard will refresh and each letter of your guess
 - 🟨 YELLOW 🟨 : The letter is correct, but not the position.
 - ⬛ Gray ⬛: The letter is incorrect and not in the word.
 
-Guess the word before the board fills up to win!
 ![verbiage_game_start.png](https://github.com/langstonstewart/verbiage/blob/main/images/verbiage_game_win.png?raw=true)
+
+
+Guess the word before the board fills up to win!
 
 *This tool is currently only available for Windows.*
 
@@ -55,6 +57,7 @@ pip install colorama tabulate termcolor requests
 
 Once you’ve installed everything, navigate to the project folder and run the BATCH file.
 This should start the interactive CLI tool. 
+
 Start a game of Verbiage and have fun!
 
 ## Contact:
