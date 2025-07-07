@@ -40,7 +40,7 @@ https://www.python.org/downloads/
 
 #### 2. Install the project folder:
 Download the project folder via current release:
-https://github.com/langstonstewart/PocketDex-Codex/releases
+https://github.com/langstonstewart/verbiage/releases
 
 ### 3. Install Dependencies:
 - [Tabulate by Sergey](https://pypi.org/project/tabulate/)
